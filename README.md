@@ -1,4 +1,4 @@
-☁️ AWS Cloud PBX with Asterisk 20 (Audio & Video Support)
+# ☁️ AWS Cloud PBX with Asterisk 20 (Audio & Video Support) #
 Implementación de una Central Telefónica IP (PBX) moderna desplegada en AWS EC2, utilizando Asterisk 20 y el stack PJSIP. Este proyecto soporta llamadas de Audio de Alta Definición y Videollamadas (H.264) a través de Internet, resolviendo desafíos complejos de NAT mediante Elastic IPs.
 
 🛠️ Tech Stack
