@@ -9,7 +9,7 @@
 
 ---
 
-## 📖 Project Overview
+##  Project Overview
 Este proyecto no es solo una instalación de Asterisk; es una implementación de **infraestructura de telecomunicaciones en la nube**.
 
 El objetivo principal fue resolver el desafío clásico de VoIP en entornos cloud: **NAT Traversal y Audio Unidireccional**. Utilizando **Asterisk 20** sobre **AWS EC2**, se construyó una central capaz de gestionar extensiones remotas en redes móviles (4G/5G) y WiFi dinámicas sin perder la señalización ni el flujo de medios.
@@ -43,7 +43,7 @@ graph TD
     EC2 -->|Media Stream| User
     EC2 -->|Media Stream| PC
 ```
-## 🧩 Componentes Técnicos
+##  Componentes Técnicos
 
 | Componente | Tecnología | Función Crítica |
 | :--- | :--- | :--- |
@@ -54,7 +54,7 @@ graph TD
 
 ---
 
-## 🔧 Engineering Challenges & Solutions
+##  Engineering Challenges & Solutions
 
 Lo que diferencia a este proyecto es la resolución de problemas reales y complejos de redes en entornos cloud.
 
@@ -93,7 +93,7 @@ Para replicar este despliegue paso a paso, consulta la guía detallada de instal
 
 👉 **Ver Guía de Instalación:** [INSTALLATION.md](INSTALLATION.md)
 
-## 👨‍💻 Autor
+##  Autor
 
 **Andrés Rodas**  
 Informatics Engineering Student – UPCH  
